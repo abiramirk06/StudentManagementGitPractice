@@ -25,3 +25,6 @@ switch (choice)
         Console.WriteLine("Invalid choice.");
         break;
 }
+Console.WriteLine();
+Console.WriteLine("Thank you for using Student Management System!");
+Console.WriteLine("Version 1.1");
